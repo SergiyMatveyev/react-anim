@@ -1,6 +1,6 @@
 # Description
 
-React app with using react hooks and github rest api
+React app with using react animation library
 
 ## Technologies
 
